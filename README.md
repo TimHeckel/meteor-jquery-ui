@@ -1,6 +1,6 @@
 ##jQuery UI - Meteor Smart Package
 
-This is a simple port of [jqueryui](http://jqueryui.com/). Because the stable version of the [jquery ui bootstrap css theme](http://addyosmani.github.com/jquery-ui-bootstrap/) uses jquery UI 1.8.16, that's the version ported here.
+This is a simple port of [jqueryui](http://jqueryui.com/). Because the stable version of the [jquery ui bootstrap css theme](http://addyosmani.github.com/jquery-ui-bootstrap/) uses jquery UI 1.9.2.
 
 As the jquery-ui-bootstrap project gets updated, I intend on keeping this version in sync.
 
