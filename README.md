@@ -2,8 +2,6 @@
 
 This is a simple port of [jqueryui](http://jqueryui.com/). This is jQuery 1.9.2, which matches the stable version of the [jquery ui bootstrap css theme](http://addyosmani.github.com/jquery-ui-bootstrap/).
 
-As the jquery-ui-bootstrap project gets updated, I intend on keeping this version in sync.
-
 ###How to use?
 
 1. Install [meteorite](https://github.com/oortcloud/meteorite)
