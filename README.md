@@ -1,5 +1,7 @@
 ##jQuery UI - Meteor Smart Package
 
+NOTE: I am no longer maintaining this package. Please consider using an [alternative on Atmosphere](https://atmospherejs.com/?q=jquery-ui).
+
 This is a simple port of [jqueryui](http://jqueryui.com/). This is jQuery 1.9.2, which matches the stable version of the [jquery ui bootstrap css theme](http://addyosmani.github.com/jquery-ui-bootstrap/).
 
 ###How to use?
